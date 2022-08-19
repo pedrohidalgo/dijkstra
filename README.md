@@ -4,7 +4,7 @@
 The Purpose of this small repository is to show an implementation of the Dijkstra's algorithm 
 along with good Scala functional programming code.
 
-Read the [Instructions for Processing the data](instructions.md)
+Read the [Instructions for Processing the data](Instructions.md)
 
 ### Relevant logic in the application
 
