@@ -1,0 +1,18 @@
+# sbt
+project/project/
+project/target/
+target/
+.bsp/
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+# mac
+.DS_Store
+
+# general
+*.class
